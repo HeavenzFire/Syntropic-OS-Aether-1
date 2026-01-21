@@ -1,0 +1,8 @@
+{
+  "name": "Syntropic OS: Aether-1",
+  "description": "An advanced solar system anomaly analysis platform utilizing sovereign syntropic pattern recognition to investigate non-natural celestial structures.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
